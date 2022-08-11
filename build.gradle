@@ -8,8 +8,8 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-    maven { url 'https://jitpack.io' }
-    maven { url "https://m2.dv8tion.net/releases" }
+    maven { url = 'https://jitpack.io' }
+    maven { url = "https://m2.dv8tion.net/releases" }
     maven { url = "https://repo1.maven.org/maven2/" }
 }
 
